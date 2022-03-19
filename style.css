@@ -1,0 +1,27 @@
+
+body{
+	background-image: url("giphy.gif");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+#myCanvas
+{
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+    background-image: url(R.jpg);
+    border-color: chartreuse;
+    border-style:inset;
+
+    
+}
+#dear{
+    background-color: gold;
+    width: 200px;
+    height: 75px;
+    font-size: 35px;
+    font-weight: bolder;
+    color:blue;
+}
